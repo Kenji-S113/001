@@ -1,0 +1,1 @@
+function change_img(){ 任意のid.setAttribute(“src”,”変更後の画像のパス”); };
